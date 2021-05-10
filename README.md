@@ -15,9 +15,11 @@ We define the model with Artificial Neural Network. A layer as an input predicto
 ## 3. Tuning Epochs
 
 ![](https://i.ibb.co/ct0pQn9/foto5.png)
+
 From images above, unfortunately, we could not find any epochs that make godd fitting between train and test, except for 60 epochs. 
 
-![](https://i.ibb.co/vqFcTGQ/foto6.png)
+![](https://i.ibb.co/W0Zj7mC/foto8.png)
+
 We want to try another approach with higher number of epochs. From images above, we can conclude that 200 epochs and 400 epochs may fit the data. But, it may be not a good approach because too many epochs may cause an overfitting to data. 
 
 ![](https://i.ibb.co/fvm8CYY/foto7.png)
