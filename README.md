@@ -1,6 +1,6 @@
 # Fire Forest Simulator with Neural Network
 
-##1. The Beginning
+## 1. The Beginning
 
 ![](https://i.ibb.co/d7gQwSm/foto1.png)
 
