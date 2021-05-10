@@ -24,5 +24,9 @@ We want to try another approach with higher number of epochs. From images above,
 
 ![](https://i.ibb.co/fvm8CYY/foto7.png)
 
+We want to try another approach with lower number of epochs. From different number of epochs, we then choose 100 epochs as good approach because it is between overfitting and underfitting, so it may be optimal fit to the data.
+
+
+
 
 
